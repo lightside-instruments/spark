@@ -1,9 +1,17 @@
-Spark is a universal open hardware platform for networking
-developed by Lightside Instruments AS.
+Spark is a universal open-source hardware platform
+base board for development of programmable network
+elements.
 
-The project includes schematic and PCB
-design files for KiCAD and technical documentation for
-production of a 19 inch rack mountable ESD Acrylic box.
+The project includes KiCAD project with schematics
+and PCB layout sources, BOM, and technical documentation for
+production of board with 6x SFP+ interfaces and a 96board
+extension interface for the connection of a control board
+(FPGA or ASIC) and up to 2 optional support boards
+(GNSS controlled oscillators, misc interface boards, sensor boards, etc.).
+
+The project includes also technical documentation for production of
+mechanical enclosure - 19 inch 1U rack mountable ESD Acrylic box compatibe
+with the base board.
 
 The project is published by Lightside Instruments AS
 under TAPR Open Hardware License. Read the LICENSE file

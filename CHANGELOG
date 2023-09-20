@@ -1,3 +1,11 @@
+spark (2-13) jammy; urgency=medium
+
+  * Fixed transition effect of missing/renamed symbols in libraries
+  * Changed debug/test footprint to not have paste layer
+  * Modified the box design to have odd number of hole rows and columns
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 20 Sep 2023 13:30:27 +0200
+
 spark (2-12) jammy; urgency=medium
 
   * Upgraded to KiCad 6
