@@ -1,13 +1,15 @@
-Spark is a universal open-source hardware platform
-base board for development of programmable network
-elements.
+Spark is a modular open-source hardware platform
+base board and enclosure for use as development kit for programmable
+network elements.
 
 The project includes KiCAD project with schematics
 and PCB layout sources, BOM, and technical documentation for
 production of board with 6x SFP+ interfaces and a 96board
-extension interface for the connection of a control board
-(FPGA or ASIC) and up to 2 optional support boards
-(GNSS controlled oscillators, misc interface boards, sensor boards, etc.).
+extension interface for the connection of a control board 
+(FPGA or ASIC) and up to 3 optional extension boards:
+* glue logic for low speed signals from the optical modules
+* GNSS controlled oscillators
+* other interface boards, sensor boards, etc.
 
 The project includes also technical documentation for production of
 mechanical enclosure - 19 inch 1U rack mountable ESD Acrylic box compatibe
