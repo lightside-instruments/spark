@@ -1,3 +1,14 @@
+spark (2.2) jammy; urgency=medium
+
+  * Replaced the PTH08T221W alternative 3.3V power supply with optional modular power supply connector identical to the RPI_5V
+  * Added i2c control interface to the optional modular power supply interface
+  * Removed the mounting hole on the right of the input power connector
+  * Added outline of the modules and center mark to the silkscreen
+  * Repositioned logo and simplified product-version formating
+  * Corrected mechanical BOM
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 28 Sep 2023 07:54:57 +0200
+
 spark (2.1) jammy; urgency=medium
 
   * Changed GND0 to Enable pin on the optional 5V RPi power supply (powermod-2.x)

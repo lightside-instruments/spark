@@ -5,8 +5,9 @@ network elements.
 The project includes KiCAD project with schematics
 and PCB layout sources, BOM, and technical documentation for
 production of board with 6x SFP+ interfaces and a 96board
-extension interface for the connection of a control board 
-(FPGA or ASIC) and up to 3 optional extension boards:
+extension interface for the connection of a control board
+(FPGA or ASIC)  e.g. Ultra96 from Avnet
+and up to 3 optional extension boards:
 * glue logic for low speed signals from the optical modules
 * GNSS controlled oscillators
 * other interface boards, sensor boards, etc.
