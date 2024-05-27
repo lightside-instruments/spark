@@ -1,3 +1,9 @@
+spark (2.2-1) jammy; urgency=medium
+
+  * Raspberry Pi extension bus power module enable signal bug fixed replacing bogus +3V3 net with +3.3V
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Mon, 27 May 2024 17:08:11 +0200
+
 spark (2.2) jammy; urgency=medium
 
   * Replaced the PTH08T221W alternative 3.3V power supply with optional modular power supply connector identical to the RPI_5V
