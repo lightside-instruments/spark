@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "Spark ver. 2.2-1, (96Boards extension connector 6x SFP+)")
+    (title "Spark ver. 2.2-2, (96Boards extension connector 6x SFP+)")
     (company "Lightside Instruments AS")
   )
 
@@ -4170,7 +4170,7 @@
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005d85b683")
     (attr smd)
-    (fp_text reference "D101" (at 0 -1.17 -90) (layer "F.SilkS")
+    (fp_text reference "D101" (at 0 1.1 -90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7f96e219-9cf7-42d3-99a6-da5231e43fa6)
     )
@@ -10743,7 +10743,7 @@
   (gr_text ".2" (at 41.2 84.9) (layer "F.SilkS") (tstamp 6a3e529a-f159-4ec3-80a0-61f054fc5bd7)
     (effects (font (size 3 3) (thickness 0.75)) (justify right))
   )
-  (gr_text "-1" (at 41.2 84.9) (layer "F.SilkS")
+  (gr_text "-2" (at 41.2 84.9) (layer "F.SilkS")
     (effects (font (size 3 3) (thickness 0.75)) (justify left))
   )
   (gr_text "3.3V" (at 40 60) (layer "F.SilkS") (tstamp c2357bc9-42d9-4628-8baa-ab5851b9b0c8)

@@ -5,7 +5,7 @@
   (paper "A0")
 
   (title_block
-    (title "spark-2.2-1 - 96Boards extension connector 6x SFP+")
+    (title "spark-2.2-2 - 96Boards extension connector 6x SFP+")
     (company "Lightside Instruments AS")
   )
 

@@ -1,3 +1,9 @@
+spark (2.2-2) jammy; urgency=medium
+
+  * Corrected D101 silkscreen label offset
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Mon, 27 May 2024 21:54:45 +0200
+
 spark (2.2-1) jammy; urgency=medium
 
   * Raspberry Pi extension bus power module enable signal bug fixed replacing bogus +3V3 net with +3.3V
