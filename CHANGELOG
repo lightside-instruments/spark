@@ -1,3 +1,9 @@
+spark (2.2-3) jammy; urgency=medium
+
+  * Refactored enclosure design. Removed unused mounting holes and added missing
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 14 Jun 2024 16:28:10 +0200
+
 spark (2.2-2) jammy; urgency=medium
 
   * Corrected D101 silkscreen label offset
