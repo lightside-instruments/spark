@@ -1,3 +1,9 @@
+spark (2.2-5) trixie; urgency=medium
+
+  * Added jlcpcb production files
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sun, 27 Sep 2026 15:12:44 +0200
+
 spark (2.2-4) trixie; urgency=medium
 
   * Updated to KiCAD 9
