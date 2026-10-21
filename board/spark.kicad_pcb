@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Spark ver. 2.2-2, (96Boards extension connector 6x SFP+)")
+		(title "Spark ver. 2.2-6, (96Boards extension connector 6x SFP+)")
 		(company "Lightside Instruments AS")
 	)
 	(layers
@@ -58302,7 +58302,7 @@
 			)
 		)
 	)
-	(gr_text "-2"
+	(gr_text "-6"
 		(at 41.2 84.9 0)
 		(layer "F.SilkS")
 		(uuid "f2a837d3-676b-42c7-ac54-cb28f8fa586e")
